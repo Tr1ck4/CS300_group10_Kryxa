@@ -143,11 +143,11 @@ License information can be added later.
 ---
 
 ## 🤝 Contributors
-- An – Frontend Layout
-- Khiem – Frontend Logic
-- Triet – Backend
-- Bao – UI/UX Design
-- Minh – Testing
+- An – Frontend lead, developer
+- Khiem – Lead Writer, developer
+- Triet – Project Manager, Backend lead, developer
+- Bao – UI/UX lead, developer(core backend)
+- Minh – QA/QC lead, developer
 
 ---
 
